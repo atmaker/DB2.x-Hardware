@@ -6,8 +6,8 @@
 
   (title_block
     (title "Development Board")
-    (date "2022-03-15")
-    (rev "2.1")
+    (date "2023-01-23")
+    (rev "2.1.1")
     (company "Plastic Scanner")
   )
 
@@ -1137,6 +1137,9 @@
     )
     (property "imported" "yes" (id 31) (at 175.26 -13.97 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Supplier" "https://www.aliexpress.com/item/1005003104903474.html" (id 32) (at 175.26 69.85 0)
+      (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid d0f42cc3-e2d7-4f51-9d6f-0c2eaccb6ae7))
     (pin "10" (uuid a9240eb1-cd96-4728-9dbf-17ea5e90b45d))

@@ -402,12 +402,12 @@
   },
   "pcbnew": {
     "last_paths": {
-      "gencad": "",
+      "gencad": "PCB KiCad.cad",
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
       "step": "PCB KiCad.step",
-      "vrml": ""
+      "vrml": "PCB KiCad.wrl"
     },
     "page_layout_descr_file": ""
   },
